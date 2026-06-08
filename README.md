@@ -20,6 +20,9 @@
 - Use of DAX for calculated fields (Profit, Margin %, Discount %)
 
 ## Dashboards
+<img width="995" height="559" alt="Screenshot (51)" src="https://github.com/user-attachments/assets/b091326f-85a5-4475-8653-8f76edb378c6" />
+
+<img width="1220" height="550" alt="Screenshot (52)" src="https://github.com/user-attachments/assets/0d22d78c-9d23-4e04-8894-ed5e0a634772" />
 
 ## Procedures
 
