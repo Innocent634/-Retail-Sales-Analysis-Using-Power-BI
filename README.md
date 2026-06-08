@@ -30,7 +30,7 @@
 ### Data Modelling
 Established relationships between Sales and Product tables using ProductID.
 
-Calculated Measures:
+### Calculated Measures:
 
 •	Total Sales = Quantity × Unit Price
 
@@ -44,7 +44,7 @@ Calculated Measures:
 
 •	Discount (%) = Discount Amount ÷ Total Sales 
 
-Visual Design:
+### Visual Design:
 
 •	Bar/Column Charts for comparison (Product, Store, Customer Type) 
 
@@ -54,7 +54,7 @@ Visual Design:
 
 •	Cards for KPIs (Revenue, Profit, Margin %) 
 
-Conclusion:
+### Conclusion:
 
 This sales analysis empowered stakeholders to:
 
@@ -68,10 +68,9 @@ This sales analysis empowered stakeholders to:
 
 •	Communicate insights clearly using dynamic visuals and narratives 
 
-Contact
-
+### Contact
 [Email](egbeinnocent634@gmail.com)
 
-[LinkedIn](LinkedIn: linkedin.com/in/innocent-egbe-016a1015a)
+[LinkedIn](https://www.linkedin.com/in/innocent-egbe-016a1015a)
 
 [Chat on Whatsapp](https://wa.me/2348135342038)
