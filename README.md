@@ -31,28 +31,47 @@
 Established relationships between Sales and Product tables using ProductID.
 
 Calculated Measures:
-•	Total Sales = Quantity × Unit Price 
+
+•	Total Sales = Quantity × Unit Price
+
 •	Net Sales = Total Sales – Discount 
+
 •	Total Cost = Cost Price × Quantity 
+
 •	Profit = Net Sales - Total Cost 
+
 •	Profit Margin (%) = Profit ÷ Net Sales 
+
 •	Discount (%) = Discount Amount ÷ Total Sales 
 
 Visual Design:
+
 •	Bar/Column Charts for comparison (Product, Store, Customer Type) 
+
 •	Line Chart with Forecast for trends 
+
 •	Slicers for filtering by date, customer type, and product category 
+
 •	Cards for KPIs (Revenue, Profit, Margin %) 
 
 Conclusion:
+
 This sales analysis empowered stakeholders to:
+
 •	Identify high-performing stores and underperformers 
+
 •	Understand how discount strategies affect different customer types 
+
 •	Make data-driven decisions on pricing, promotions, and inventory 
+
 •	Predict future sales outcomes and prepare for high-volume seasons 
+
 •	Communicate insights clearly using dynamic visuals and narratives 
 
 Contact
+
 [Email](egbeinnocent634@gmail.com)
- [LinkedIn](LinkedIn: linkedin.com/in/innocent-egbe-016a1015a)
- [Chat on Whatsapp](https://wa.me/2348135342038)
+
+[LinkedIn](LinkedIn: linkedin.com/in/innocent-egbe-016a1015a)
+
+[Chat on Whatsapp](https://wa.me/2348135342038)
