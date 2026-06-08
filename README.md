@@ -4,3 +4,51 @@
 ## Dataset Used
 [Get File .pbix](https://github.com/Innocent634/-Retail-Sales-Analysis-Using-Power-BI/raw/refs/heads/main/Sale%20Analysis.pbix)
 [Get File .xlsx](https://github.com/user-attachments/files/28716728/Sales.Table.xlsx)
+
+## Questions
+- Which product category has the highest profit margin?
+- Which store location generates the most revenue?
+- How does customer type affect average discount?
+- Between online and offline sales, which is more profitable?
+
+## Key Points Covered
+- Product category contribution to overall profit efficiency (via Profit Margin %)
+- Revenue trends across time and store locations
+- Impact of sales channel (Online vs Offline) on profitability
+- Product category contribution to total profit and margin
+- Effect of discounts on customer behavior
+- Use of DAX for calculated fields (Profit, Margin %, Discount %)
+
+## Dashboards
+
+## Procedures
+
+### Data Preparation
+- Two raw tables were used: Sales and Products.
+- Uncalculated fields like Profit, Profit Margin, and Discount % were added using DAX.
+
+### Data Modelling
+Established relationships between Sales and Product tables using ProductID.
+Calculated Measures:
+•	Total Sales = Quantity × Unit Price 
+•	Net Sales = Total Sales – Discount 
+•	Total Cost = Cost Price × Quantity 
+•	Profit = Net Sales - Total Cost 
+•	Profit Margin (%) = Profit ÷ Net Sales 
+•	Discount (%) = Discount Amount ÷ Total Sales 
+Visual Design:
+•	Bar/Column Charts for comparison (Product, Store, Customer Type) 
+•	Line Chart with Forecast for trends 
+•	Slicers for filtering by date, customer type, and product category 
+•	Cards for KPIs (Revenue, Profit, Margin %) 
+Conclusion:
+This sales analysis empowered stakeholders to:
+•	Identify high-performing stores and underperformers 
+•	Understand how discount strategies affect different customer types 
+•	Make data-driven decisions on pricing, promotions, and inventory 
+•	Predict future sales outcomes and prepare for high-volume seasons 
+•	Communicate insights clearly using dynamic visuals and narratives 
+Contact
+[Email](egbeinnocent634@gmail.com)
+ [LinkedIn](LinkedIn: linkedin.com/in/innocent-egbe-016a1015a)
+ [Chat on Whatsapp](https://wa.me/2348135342038)
